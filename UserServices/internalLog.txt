@@ -1,0 +1,39 @@
+2020-05-06 15:08:46.0853 Info Auto loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-05-06 15:08:46.2002 Info Loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-05-06 15:08:46.4663 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-05-06 15:08:46.4999 Info Auto loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-05-06 15:08:46.5197 Info Auto loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-05-06 15:08:46.5298 Info Loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-05-06 15:08:46.7174 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-05-06 15:08:46.7296 Info Auto loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-05-06 15:08:46.7549 Info Message Template Auto Format enabled
+2020-05-06 15:08:46.7655 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-06 15:08:47.5296 Info Adding target FileTarget(Name=alldata)
+2020-05-06 15:08:47.5296 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-06 15:08:47.8233 Info Found 45 configuration items
+2020-05-06 15:43:04.6551 Info Auto loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-05-06 15:43:04.7251 Info Loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-05-06 15:43:04.8971 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-05-06 15:43:04.9349 Info Auto loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-05-06 15:43:04.9349 Info Auto loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-05-06 15:43:04.9349 Info Loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-05-06 15:43:05.3480 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-05-06 15:43:05.3570 Info Auto loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-05-06 15:43:05.3570 Info Message Template Auto Format enabled
+2020-05-06 15:43:05.3751 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-06 15:43:05.6059 Info Adding target FileTarget(Name=alldata)
+2020-05-06 15:43:05.6059 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-06 15:43:05.6775 Info Found 45 configuration items
+2020-05-06 17:01:46.0672 Info Auto loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-05-06 17:01:46.1237 Info Loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-05-06 17:01:46.1445 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.2.1321. Product version: 1.6.2.
+2020-05-06 17:01:46.1502 Info Auto loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-05-06 17:01:46.1502 Info Auto loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-05-06 17:01:46.1502 Info Loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-05-06 17:01:46.1704 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.2.1619. Product version: 4.9.2.
+2020-05-06 17:01:46.1704 Info Auto loading assembly file: H:\Ecommerce\UserServices\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-05-06 17:01:46.1840 Info Message Template Auto Format enabled
+2020-05-06 17:01:46.1840 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-06 17:01:46.2577 Info Adding target FileTarget(Name=alldata)
+2020-05-06 17:01:46.2663 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-06 17:01:46.2946 Info Found 45 configuration items
